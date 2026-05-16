@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "gdg_campus_coffee" "\0"
+            VALUE "FileDescription", "yemekhane" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "gdg_campus_coffee" "\0"
+            VALUE "InternalName", "yemekhane" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "gdg_campus_coffee.exe" "\0"
-            VALUE "ProductName", "gdg_campus_coffee" "\0"
+            VALUE "OriginalFilename", "yemekhane.exe" "\0"
+            VALUE "ProductName", "yemekhane" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

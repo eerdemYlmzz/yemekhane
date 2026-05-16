@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "gdg_campus_coffee",
+            "name": "yemekhane",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "gdg_campus_coffee (profile mode)",
+            "name": "yemekhane (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "gdg_campus_coffee (release mode)",
+            "name": "yemekhane (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

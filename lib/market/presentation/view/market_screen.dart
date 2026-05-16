@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gdg_campus_coffee/market/presentation/mvvm/market_view_model.dart';
+import 'package:yemekhane/market/presentation/mvvm/market_view_model.dart';
 
 class MarketScreen extends StatefulWidget {
   const MarketScreen({super.key});

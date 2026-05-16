@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gdg_campus_coffee/menu/domain/entity/product.dart';
-import 'package:gdg_campus_coffee/menu/domain/use_case/get_products_use_case.dart';
+import 'package:yemekhane/menu/domain/entity/product.dart';
+import 'package:yemekhane/menu/domain/use_case/get_products_use_case.dart';
 
 class MenuViewModel extends ChangeNotifier {
   final _getProductsUseCase = GetProductsUseCase();

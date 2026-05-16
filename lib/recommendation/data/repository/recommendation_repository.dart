@@ -1,6 +1,6 @@
-import 'package:gdg_campus_coffee/recommendation/data/model/recommendation_model.dart';
-import 'package:gdg_campus_coffee/recommendation/domain/entity/recommendation.dart';
-import 'package:gdg_campus_coffee/recommendation/domain/repository/i_recommendation_repository.dart';
+import 'package:yemekhane/recommendation/data/model/recommendation_model.dart';
+import 'package:yemekhane/recommendation/domain/entity/recommendation.dart';
+import 'package:yemekhane/recommendation/domain/repository/i_recommendation_repository.dart';
 
 class RecommendationRepository implements IRecommendationRepository {
   @override

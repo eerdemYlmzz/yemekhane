@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gdg_campus_coffee/branches/domain/entity/branch.dart';
-import 'package:gdg_campus_coffee/branches/domain/use_case/get_branches_use_case.dart';
+import 'package:yemekhane/branches/domain/entity/branch.dart';
+import 'package:yemekhane/branches/domain/use_case/get_branches_use_case.dart';
 
 class BranchesViewModel extends ChangeNotifier {
   final _getBranchesUseCase = GetBranchesUseCase();

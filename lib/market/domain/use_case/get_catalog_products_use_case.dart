@@ -1,5 +1,5 @@
-import 'package:gdg_campus_coffee/market/data/repository/market_repository.dart';
-import 'package:gdg_campus_coffee/market/domain/entity/catalog_product.dart';
+import 'package:yemekhane/market/data/repository/market_repository.dart';
+import 'package:yemekhane/market/domain/entity/catalog_product.dart';
 
 class GetCatalogProductsUseCase {
   final _marketRepository = MarketRepository();

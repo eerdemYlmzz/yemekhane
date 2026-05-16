@@ -1,5 +1,5 @@
-import 'package:gdg_campus_coffee/branches/data/repository/branch_repository.dart';
-import 'package:gdg_campus_coffee/branches/domain/entity/branch.dart';
+import 'package:yemekhane/branches/data/repository/branch_repository.dart';
+import 'package:yemekhane/branches/domain/entity/branch.dart';
 
 class GetBranchesUseCase {
   final _branchRepository = BranchRepository();

@@ -1,6 +1,6 @@
-import 'package:gdg_campus_coffee/branches/data/model/branch_model.dart';
-import 'package:gdg_campus_coffee/branches/domain/entity/branch.dart';
-import 'package:gdg_campus_coffee/branches/domain/repository/i_branch_repository.dart';
+import 'package:yemekhane/branches/data/model/branch_model.dart';
+import 'package:yemekhane/branches/domain/entity/branch.dart';
+import 'package:yemekhane/branches/domain/repository/i_branch_repository.dart';
 
 class BranchRepository implements IBranchRepository {
   @override

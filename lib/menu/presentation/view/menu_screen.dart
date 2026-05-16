@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gdg_campus_coffee/menu/presentation/mvvm/menu_view_model.dart';
+import 'package:yemekhane/menu/presentation/mvvm/menu_view_model.dart';
 
 class MenuScreen extends StatefulWidget {
   const MenuScreen({super.key});

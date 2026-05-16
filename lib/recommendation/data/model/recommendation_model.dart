@@ -1,4 +1,4 @@
-import 'package:gdg_campus_coffee/recommendation/domain/entity/recommendation.dart';
+import 'package:yemekhane/recommendation/domain/entity/recommendation.dart';
 
 class RecommendationModel {
   final String? answer;

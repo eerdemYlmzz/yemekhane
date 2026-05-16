@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gdg_campus_coffee/recommendation/presentation/mvvm/recommendation_view_model.dart';
+import 'package:yemekhane/recommendation/presentation/mvvm/recommendation_view_model.dart';
 
 class RecommendationScreen extends StatefulWidget {
   const RecommendationScreen({super.key});

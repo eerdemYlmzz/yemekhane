@@ -1,4 +1,4 @@
-import 'package:gdg_campus_coffee/menu/domain/entity/product.dart';
+import 'package:yemekhane/menu/domain/entity/product.dart';
 
 class ProductModel {
   final String? name;

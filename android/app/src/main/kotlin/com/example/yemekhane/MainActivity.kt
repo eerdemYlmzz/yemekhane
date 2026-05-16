@@ -1,4 +1,4 @@
-package com.example.gdg_campus_coffee
+package com.example.yemekhane
 
 import io.flutter.embedding.android.FlutterActivity
 

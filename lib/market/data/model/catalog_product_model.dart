@@ -1,4 +1,4 @@
-import 'package:gdg_campus_coffee/market/domain/entity/catalog_product.dart';
+import 'package:yemekhane/market/domain/entity/catalog_product.dart';
 
 class CatalogProductModel {
   final String? name;

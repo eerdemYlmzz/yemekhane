@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gdg_campus_coffee/branches/presentation/mvvm/branches_view_model.dart';
+import 'package:yemekhane/branches/presentation/mvvm/branches_view_model.dart';
 
 class BranchesScreen extends StatefulWidget {
   const BranchesScreen({super.key});
